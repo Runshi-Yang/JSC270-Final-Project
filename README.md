@@ -2,4 +2,4 @@
 
 This is a repo for Runshi Yang and Jisu Qian's JSC270 assignment 4.
 
-You can find the code [here](...) 
+You can find the code [here](Assignment4.ipynb) 
