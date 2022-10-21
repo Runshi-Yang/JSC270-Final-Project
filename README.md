@@ -1,6 +1,6 @@
 # JSC270_HW4_2022_Runshi
 
-This is a repo for Runshi Yang and Jisu Qian's JSC270 assignment 4.
+This is a repo for Runshi Yang and Jisu Qian's JSC270 Final Project.
 
 You can find the code [here](Assignment4.ipynb) 
 
